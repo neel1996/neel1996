@@ -6,7 +6,7 @@
 
 You can reach me on,
 
-[![github.com/neel1996](https://badgen.net/badge/icon/github?icon=github&label=neel1996)](https://github.com/neel1996)
+[![github.com/neel1996](https://badgen.net/badge/icon/github?icon=github&label=neel1996&color=green)](https://github.com/neel1996)
 [![twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label=neeldev96)](https://twitter.com/neeldev96)
 [![youtube](https://badgen.net/badge/YouTube/itassistors/red?icon=youtube)](https://www.youtube.com/user/itassistors)
 
