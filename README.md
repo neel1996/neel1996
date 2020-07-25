@@ -13,4 +13,10 @@ You can reach me on,
 
 I am available to contribute for any :atom_symbol: react, 🚀 node js or :coffee: java based projects 
 
+[![Neel's Github lobby](https://github-readme-stats.vercel.app/api?username=neel1996&count_private=true&show_icons=true&theme=cobalt)](https://github.com/neel1996?tab=repositories)
+
 You can find some of my works below, :point_down:
+
+[![gitconvex](https://github-readme-stats.vercel.app/api/pin/?username=neel1996&repo=gitconvex)](https://github.com/neel1996/gitconvex)
+[![gitconvex-node](https://github-readme-stats.vercel.app/api/pin/?username=neel1996&repo=gitconvex-server)](https://github.com/neel1996/gitconvex-server)
+[![gitconvex-package](https://github-readme-stats.vercel.app/api/pin/?username=neel1996&repo=gitconvex-package)](https://github.com/neel1996/gitconvex-package)
