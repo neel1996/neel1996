@@ -6,10 +6,10 @@
 
 You can reach me on,
 
-[![github.com/neel1996](https://badgen.net/badge/icon/github?icon=github&label=neel1996&color=green)](https://github.com/neel1996)
-[![twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label=neeldev96)](https://twitter.com/neeldev96)
-[![youtube](https://badgen.net/badge/YouTube/itassistors/red?icon=youtube)](https://www.youtube.com/user/itassistors)
-[![dev.to](https://badgen.net/badge/dev.to/neel1996/gray)](https://dev.to/neel1996)
+[![github.com/neel1996](https://img.shields.io/github/followers/neel1996?color=green&label=GITHUB&style=for-the-badge)](https://github.com/neel1996)
+[![twitter](https://img.shields.io/twitter/follow/neeldev96?color=blue&label=twitter&logoColor=blue&style=for-the-badge)](https://twitter.com/neeldev96)
+[![youtube](https://img.shields.io/static/v1?label=YOUTUBE&message=itassistors&color=red&style=for-the-badge)](https://www.youtube.com/user/itassistors)
+[![dev.to](https://img.shields.io/static/v1?label=dev.to&message=neel1996&color=lightgrey&style=for-the-badge)](https://dev.to/neel1996)
 
 I am available to contribute for any :atom_symbol: react, 🚀 node js or :coffee: java based projects 
 
