@@ -15,9 +15,14 @@ I am available to contribute for any :atom_symbol: react, 🚀 node js or :coffe
 
 [![Neel's Github lobby](https://github-readme-stats-git-master.neel1996.vercel.app/api?username=neel1996&count_private=true&show_icons=true&theme=cobalt)](https://github.com/neel1996?tab=repositories)
 
-You can find some of my works below, :point_down:
+## Core Ingredients
+[![Top Languages](https://github-readme-stats-git-master.neel1996.vercel.app/api/top-langs/?username=neel1996&hide=html,css)](https://github.com/neel1996)
+
+## Projects
 
 [![gitconvex](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=gitconvex)](https://github.com/neel1996/gitconvex)
-[![gitconvex-ui](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=gitconvex-ui)](https://github.com/neel1996/gitconvex-ui)
-[![gitconvex-node](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=gitconvex-server)](https://github.com/neel1996/gitconvex-server)
+
 [![langline](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=langline)](https://github.com/neel1996/langline)
+
+
+You can find some of my works below, :point_down:
