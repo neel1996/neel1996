@@ -21,7 +21,6 @@ I am available to contribute for any :atom_symbol: react, 🚀 node js or :coffe
 ## Projects
 
 [![gitconvex](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=gitconvex)](https://github.com/neel1996/gitconvex)
-
 [![langline](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=langline)](https://github.com/neel1996/langline)
 
 
