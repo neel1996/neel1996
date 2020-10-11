@@ -1,6 +1,6 @@
 ### Hi there young Padawans and wise Jedi 🌠
 
-:atom_symbol: I am a MERN stack developer with 2 years experience in developing and deploying mern statck applications. I have been working on web development technoligies since 2015.
+:atom_symbol: I am a MERN stack developer with 2 years experience in developing and deploying mern statck applications. I have been working on web development technologies since 2015.
 
 :clapper: I maintain a tech YouTube channel with 18k subs, but pivoted to full time development since 2019. 
 
