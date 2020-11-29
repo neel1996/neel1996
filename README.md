@@ -11,7 +11,7 @@ You can reach me on,
 [![youtube](https://img.shields.io/static/v1?label=YOUTUBE&message=itassistors&color=red&style=for-the-badge)](https://www.youtube.com/user/itassistors)
 [![dev.to](https://img.shields.io/static/v1?label=dev.to&message=neel1996&color=lightgrey&style=for-the-badge)](https://dev.to/neel1996)
 
-I am available to contribute for any :atom_symbol: react, 🚀 node js or :coffee: java based projects 
+Give me a holler if you are looking for contributions on any of your :atom_symbol: react, 🚀 node js, :coffee: java or 🐹 Go based open source projects 
 
 [![Neel's Github lobby](https://github-readme-stats-git-master.neel1996.vercel.app/api?username=neel1996&count_private=true&show_icons=true&theme=cobalt)](https://github.com/neel1996?tab=repositories)
 
@@ -23,5 +23,6 @@ I am available to contribute for any :atom_symbol: react, 🚀 node js or :coffe
 [![gitconvex](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=gitconvex)](https://github.com/neel1996/gitconvex)
 [![langline](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=langline)](https://github.com/neel1996/langline)
 
+**Freelance Project** ➡️ [knowyourterms](https://knowyourterms.com/)
 
 You can find some of my works below, :point_down:
