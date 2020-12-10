@@ -16,12 +16,12 @@ Give me a holler if you are looking for contributions on any of your :atom_symbo
 [![Neel's Github lobby](https://github-readme-stats-git-master.neel1996.vercel.app/api?username=neel1996&count_private=true&show_icons=true&theme=cobalt)](https://github.com/neel1996?tab=repositories)
 
 ## Core Ingredients
-[![Top Languages](https://github-readme-stats-git-master.neel1996.vercel.app/api/top-langs/?username=neel1996&hide=html,css)](https://github.com/neel1996)
+[![Top Languages](https://github-readme-stats-git-master.neel1996.vercel.app/api/top-langs/?username=neel1996&hide=html,css&layout=compact&theme=cobalt)](https://github.com/neel1996)
 
 ## Projects
 
-[![gitconvex](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=gitconvex)](https://github.com/neel1996/gitconvex)
-[![langline](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=langline)](https://github.com/neel1996/langline)
+[![gitconvex](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=gitconvex&theme=cobalt)](https://github.com/neel1996/gitconvex)
+[![langline](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=langline&theme=cobalt)](https://github.com/neel1996/langline)
 
 **Freelance Project** ➡️ [knowyourterms](https://knowyourterms.com/)
 
