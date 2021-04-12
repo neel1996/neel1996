@@ -6,10 +6,12 @@
 
 You can reach me on,
 
-[![github.com/neel1996](https://img.shields.io/github/followers/neel1996?color=green&label=GITHUB&style=for-the-badge)](https://github.com/neel1996)
-[![twitter](https://img.shields.io/twitter/follow/neeldev96?color=blue&label=twitter&logoColor=blue&style=for-the-badge)](https://twitter.com/neeldev96)
-[![youtube](https://img.shields.io/static/v1?label=YOUTUBE&message=itassistors&color=red&style=for-the-badge)](https://www.youtube.com/user/itassistors)
-[![dev.to](https://img.shields.io/static/v1?label=dev.to&message=neel1996&color=lightgrey&style=for-the-badge)](https://dev.to/neel1996)
+[![github.com/neel1996](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neel1996)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+)](https://twitter.com/neeldev96)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/itassistors)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
+)](https://dev.to/neel1996)
 
 Give me a holler if you are looking for contributions on any of your :atom_symbol: react, 🚀 node js, :coffee: java or 🐹 Go based open source projects 
 
