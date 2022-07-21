@@ -24,9 +24,6 @@ Give me a holler if you are looking for contributions on any of your :atom_symbo
 
 [![gitconvex](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=gitconvex&theme=cobalt)](https://github.com/neel1996/gitconvex)
 [![langline](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=langline&theme=cobalt)](https://github.com/neel1996/langline)
-
-## Currently cooking :construction_worker:
-
 [![mimock](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=arbindo&repo=mimock&theme=cobalt)](https://github.com/arbindo/mimock)
 
 **Freelance Project** ➡️ [knowyourterms](https://knowyourterms.com/)
