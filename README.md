@@ -13,11 +13,11 @@ You can reach me on,
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
 )](https://dev.to/neeldev96)
 
-[![Neel's Github lobby](https://github-readme-stats-git-master.neel1996.vercel.app/api?username=neel1996&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/neel1996?tab=repositories)
-[![GitHub Streak](https://streak-stats.demolab.com?user=neel1996&theme=onedark&hide_border=true)](https://github.com/neel1996)
+![Neel's Github lobby](https://github-readme-stats-git-master.neel1996.vercel.app/api?username=neel1996&count_private=true&show_icons=true&theme=onedark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=neel1996&theme=onedark&hide_border=true)
 
 ## Core Ingredients <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="30" height="30" />
-[![Top Languages](https://github-readme-stats-git-master-neel1996.vercel.app/api/top-langs/?username=neel1996&hide=html,css,c,c%2B%2B&layout=compact&theme=onedark&hide_border=true)](https://github.com/neel1996)
+![Top Languages](https://github-readme-stats-git-master-neel1996.vercel.app/api/top-langs/?username=neel1996&hide=html,css,c,c%2B%2B&layout=compact&theme=onedark&hide_border=true)
 
 ## Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" />
 
