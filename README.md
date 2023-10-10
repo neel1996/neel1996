@@ -24,5 +24,6 @@ You can reach me on,
 [![langline](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=langline&theme=onedark)](https://github.com/neel1996/langline)
 [![mimock](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=arbindo&repo=mimock&theme=onedark)](https://github.com/arbindo/mimock)
 [![supesquire](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=supesquire&theme=onedark)](https://github.com/neel1996/supesquire)
+[![lagoon](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=lagoon&theme=onedark)](https://github.com/neel1996/lagoon)
 
 You can find my other works below <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Medium-Light Skin Tone" width="35" height="35" />
